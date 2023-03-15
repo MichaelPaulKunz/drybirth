@@ -8,11 +8,8 @@ class App extends Component {
   }
   render() {
     return (
-      <div className="center">
-        <h1 className="center">
-          DRY BIRTH
-        </h1>
-
+      <div className="main">
+        <img className="logo" src={`/assets/Logo2.png`}/>
       </div>
     )
   }

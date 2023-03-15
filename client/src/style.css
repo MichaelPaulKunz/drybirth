@@ -3,11 +3,17 @@ body, html {
   height: 85%;
 }
 
-.center {
+.logo {
   text-align: center;
+  padding: 5%;
+  border-radius: 10% 10% 10% 10%;
 }
 
+.main {
+  text-align: center;
+}
 .bg {
+  border-radius: 25% 25% 25% 25%;
   /* The image used */
   background-image: url("/client/shadows3.png");
   /* Full height */
